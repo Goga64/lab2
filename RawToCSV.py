@@ -8,7 +8,7 @@ from PyLTSpice import RawRead
 import csv
 import numpy as np
 
-datafile    = "RLC.raw"
+datafile    = "lab2.raw"
 outputfile  = "RLC.csv"
 
 # Import data file
